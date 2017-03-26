@@ -1,0 +1,4 @@
+package: github.com/go-scim/data_injector
+import:
+- package: github.com/spf13/viper
+testImport:
